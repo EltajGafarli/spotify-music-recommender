@@ -3,9 +3,9 @@ from spotipy.oauth2 import SpotifyClientCredentials
 
 from random import randint
 
-client_id = 'ea070e2abec3424d907edff3255acec7'
+client_id = 'create account on spotify and get client_id from spotify app'
 
-client_secret = '1d9aa5a40292427c8fc4cd1def948e14'
+client_secret = 'get client_secret from spotify'
 
 
 def getMusics():
